@@ -18,7 +18,7 @@ about:
 ---
 
 ::: {#hero-heading}
-Hello, I am *Author*.
+Hello, I am *Author*. testing updates
 
 Feel free to edit the text and layout to make this website your own!
 
